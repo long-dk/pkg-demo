@@ -13,7 +13,7 @@
   "license": "ISC",
   "publishConfig": {
     "@long-dk:registry": "https://npm.pkg.github.com"
-  }
+  },
   "bugs": {
     "url": "https://github.com/long-dk/pkg-demo/issues"
   },
