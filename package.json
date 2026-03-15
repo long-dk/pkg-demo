@@ -1,6 +1,6 @@
 {
-  "name": "@long-dk/auth-db",
-  "version": "1.0.17",
+  "name": "@long-dk/pkg-demo",
+  "version": "1.0.18",
   "description": "ORM-agnostic database package for the auth domain (User, Role)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/long-dk/auth-db.git"
+    "url": "git+https://github.com/long-dk/pkg-demo.git"
   },
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig.build.json",
