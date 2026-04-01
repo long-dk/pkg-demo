@@ -1,7 +1,7 @@
 {
   "name": "@long-dk/pkg-demo",
   "version": "1.0.18",
-  "description": "ORM-agnostic database package for the auth domain (User, Role)",
+  "description": "A demo package for testing npm registry",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
