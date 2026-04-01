@@ -2,7 +2,7 @@
   "name": "@long-dk/pkg-demo",
   "version": "1.0.18",
   "description": "A demo package for testing npm registry",
-  "author": "lcv",
+  "author": "main lcv",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
